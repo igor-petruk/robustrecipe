@@ -211,16 +211,3 @@ After that you move it to the fridge and do the same procedure, but now once a w
 There are variants of doing it differently, by adding an apple or hops, but those can be tried after the simple recipe failed. Maybe you have weird microscopic cultures around your kitchen, so a boost is needed. Usually it just works.
 
 
-## Marta’s sourdough and yogurt pancakes
-
-
-
-* 100g sourdough starter (unfinished)
-* 1 tbsp yogurt (replace with a bit more milk for less acidic, milder taste)
-* 60g plain wheat flour
-* 1 egg
-* Pinch of salt
-* Rapeseed oil for frying
-
-Mix well. Add water/flour for the right thickness Fry. Serves 1.5 person.
-
