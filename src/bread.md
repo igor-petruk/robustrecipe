@@ -1,213 +1,172 @@
 # Ingredients (2 loaves of bread)
 
+1. **Leaven**
+    * Sourdough starter from the refrigerator, last fed at least a week ago
+    * 100 g water
+    * 100 g whole wheat flour
 
+2. **Dough**
+    * 800 g white wheat flour
+    * 200 g whole wheat flour
+    * 680 g water  
+        * Can be pre-divided into 120 g and 560 g
+    * 20 g salt
 
-1. Leaven
-    * Sourdough in the refrigerator that was fed at least a week ago
-    * 100 g of water
-    * 100 g of whole wheat flour
-2. Dough
-    * 800 g of white wheat flour
-    * 200 g of whole wheat flour
-    * 680 g of water
-        * Can be divided into 120 g and 560 g ahead of time
-    * 20 g of salt
+## Roles of Ingredients
 
+Whole wheat flour adds flavor. White flour provides gluten, which makes the dough easier to handle. You can adjust the proportions to your taste, but 20% whole wheat and 80% white flour is a classic formula.
 
-## Roles of ingredients
-
-Whole wheat flour provides flavor. White flour is a source of gluten to make it easier to work with the dough. The proportions can be adjusted to taste, but 20%+80% is a classic recipe.
-
-The amount of water affects the size of the holes in the bread. 65-80% percent is used for wheat. If there is not enough water, the bread may be dry and not rise. If there is too much, it will be difficult to work with the dough and it may not rise due to the fact that it is almost liquid and has no structure. You need to find your optimal proportion. Whole wheat flour can hold more water.
-
+The amount of water affects the size of air pockets in the bread. For wheat flour, 65–80% hydration is common. Too little water can lead to dry, poorly risen bread. Too much makes the dough difficult to work with and may prevent it from rising properly. Whole wheat flour can absorb more water.
 
 # Tools
 
-Many of these items can just come in a set like [this](https://www.amazon.co.uk/dp/B09L1GWX4J/).
-
-
+Many of these items are included in baking kits like [this one](https://www.amazon.co.uk/dp/B09L1GWX4J/).
 
 1. Baking paper
-2. [Baker's knife](https://m.media-amazon.com/images/I/61JefH68WtL._AC_SL1500_.jpg)
-3. [Square blade](https://wetshavingclub.com/wp-content/uploads/2020/06/how-often-do-i-change-safety-razor-blade-e1593280962443.jpg) or a bread scoring knife
+2. [Baker’s knife](https://m.media-amazon.com/images/I/61JefH68WtL._AC_SL1500_.jpg)
+3. [Square blade](https://wetshavingclub.com/wp-content/uploads/2020/06/how-often-do-i-change-safety-razor-blade-e1593280962443.jpg) or bread scoring tool
 4. Kitchen scale
-5. An oven that heats up to 230+ degrees and a way to measure it (oven display or thermometer)
-6. Heat-resistant bowl for water in the oven (e.g. just a ceramic bowl)
-7. Heat-resistant surface for bread in the oven
-8. Food film
-9. [Banneton](https://www.theclevercarrot.com/product/round-proofing-basket/) for each loaf of bread, 2 is ideal
-    1. You can use a bowl of the appropriate size with a cloth or towel
-
+5. Oven that heats to 230°C+ and a way to verify it (thermometer or oven display)
+6. Heat-resistant bowl for water (e.g. ceramic)
+7. Heat-resistant surface for baking
+8. Cling film
+9. [Banneton](https://www.theclevercarrot.com/product/round-proofing-basket/) for each loaf — 2 are ideal  
+    * Alternatively, use a bowl of similar size lined with a towel
 
 # Recipe
 
-Bread is made in three days, but the amount of busy work is low. Next is a schedule in which only the ratios of the time interval are important, not the specific start time. That is, on any day, the entire schedule can be moved for a couple of hours forward or backward for convenience. With more experience even relative times can be adjusted.
+The bread is made over three days, though actual active time is minimal. The schedule below uses relative timing — you can shift the times by a few hours for convenience. With more experience, even relative intervals can be adjusted.
 
+## Day 1 – Reviving the Sourdough Starter
 
-## Day 1 - revitalization of the sourdough starter
+### 18:00  
+Take the sourdough starter out of the fridge, feed it as usual, and leave it at room temperature.
 
+### 22:00  
+Place the fed starter back in the fridge.
 
-### 18:00
+## Day 2 – Preparing the Dough
 
-Take the sourdough out of the fridge and mix as usual. Leave at room temperature
+### 8:00  
+Mix the **levain** — a portion of the starter used for baking.
 
+Combine 25 g of sourdough with 100 g of water and stir to dissolve. Add 100 g of whole wheat flour and mix.  
+Place the mixture in a jar or bowl, cover with cling film (poke a small hole for air to escape), and leave at room temperature. The container should allow for the leaven to double in size.
 
-### 22:00
+### 12:00  
+In a large bowl, pour 560 g of water and add all of the levain. If it floats, that’s a good sign, but it’s fine if it doesn’t. Stir to mix.
 
-I put the starter in the refrigerator.
+Add both flours and mix directly in the bowl. It won’t become uniform yet. **Do not add salt!**
 
+This step is called **autolysis** — resting the flour and water (and levain, optionally) without salt. Though it seems unnecessary, it significantly improves dough structure.
 
-## Day 2 - preparation of the dough
+### 12:30  
+Gradually add the remaining 120 g of water, about 20 g at a time, mixing thoroughly between additions. Add all the salt during this step.
 
+Cover the bowl loosely with a cling film or use a damp towel.
 
-### 8:00
+This stage is called **bassinage** — adding water after autolysis. It’s believed to improve elasticity. Some bakers skip this step and simply add most of the water upfront, saving ~20 g for dissolving the salt.
 
-Mix "levain" - this is a special portion of the starter that will be used for baking.
-
-First, mix 25 g of sourdough from the refrigerator and 100 g of water. Mix it up for the leaven to dissolve. Then add 100 g of whole grain flour. This sequence helps to stir the leaven the best.
-
-Put this in a jar or soup bowl and cover with cling film. You can poke a small hole in the film with a knife so that air can escape. The vessel should be large enough for the leaven to double in size.
-
-Leave the container on the table.
-
-
-### 12:00
-
-Pour 640 g of water into a large vessel. Throw in all the levain. If it floats there and does not sink, it is a good sign. If not - nothing. Stir it up. After that, add flour and mix directly in the vessel, the mass will not become uniform. DO NOT add salt!
-
-Leave it on the table.
-
-This phase is called "autolysis" - mixing the dough and leaving to rest WITHOUT salt. Some people do not add leaven either, they add it in the next step. Autolysis does not seem to make any sense, but in fact it significantly improves the structure of the dough due to certain chemical processes.
-
-
-### 12:30
-
-Mix the remaining 160 g of water into the dough in small portions, about 20 g. Mix in portions or the whole salt amount at the same time. Start the next portion only when the previous one is completely mixed.
-
-Cover the bowl loosely. Some people cover it with a wet towel.
-
-This phase is called "bassinage" - adding the remaining water after autolysis, and not immediately. In theory, it improves the elasticity of the dough. Some people skip it and mix in all the water at once, except for 20 g, which helps dissolve the salt.
-
-
-### 13:00
-
-Wet your hands with water.
-
-Without removing the dough from the bowl, put your hands under the dough, pull its side up and place this stretched side on top of the dough. Turn the bowl 90 degrees and repeat. And so a total of 4 times from all 4 sides.
+### 13:00  
+Wet your hands. Without removing the dough from the bowl, slide your hands underneath, stretch one side upward, and fold it over. Rotate the bowl 90° and repeat for all four sides.
 
 [Video](https://www.youtube.com/watch?v=QYzxulQY1Gc)
 
-This phase is called “stretch & fold” and forms the gluten network as well as the surface tension of the dough.
+This is **stretch and fold**, which builds the gluten network and dough surface tension.
 
+### 14:00  
+Repeat the stretch and fold.
 
-### 14:00
+### 15:00  
+Repeat again.
 
-Repeat the previous point.
+At this point, optional ingredients like cheese, dried fruit, or herbs can be added. These make the dough harder to handle, so it’s best to master the base recipe first.
 
+After the final fold, the dough should stretch like mozzarella. If not, note it for next time — perhaps adjust hydration based on your flour. Do not fix it now.
 
-### 15:00
+### 15:30  
+Flour a clean work surface — rice flour is best for dusting bannetons, tables, or hands, as it doesn’t absorb into the dough.
 
-Repeat the previous point.
+Turn out the dough and divide into two parts using a baker’s knife. It may stick, but will come free if moved with the knife.
 
-It is during this phase that various additives are added to the dough - cheese, dried fruits, herbs. Once added, the dough is more difficult to work with, so it's best to learn how to do without it first.
+Lightly stretch and shape each portion into a circle. Using stretch-and-fold movements, form into tight balls. Unlike earlier folds, you can use more than four folds here.
 
-After this final stretch the dough should resemble stretchiness of buffalo mozzarella on pizza. If it is not, you can make a note to experiment with the total number of water _next time,_ maybe your flour is slightly different. Do not attempt to fix it by adding water this time.
+Leave the balls on the table seam side up. Do not flip them.
 
+Prepare floured bannetons or bowls lined with cloth.
 
-### 15:30
+### 16:00  
+The dough balls will have spread slightly. Reshape them again with light folds from the sides toward the center.
 
-Pour flour on a clean table. The best flour for dusting tables, bannetons or hands is rice flour, regardless of the flour for the bread. It remains separate and does not disappear in the dough by itself.
+Flip them over and use a baker’s knife to tighten their shape.  
+[Video from 2:20](https://youtu.be/Koab3fxN4t4?t=140)
 
-Put the dough on top of the flour. Cut the dough into 2 parts with a baker's knife. The dough can stick, but it easily falls behind if you move it around the table with a baker's knife.
+Transfer each ball to a banneton, seam side up (smooth side down), using your hand and a baker’s knife.
 
-Stretch each part a little, form a circle. Then, using a technique similar to "stretch & fold", form a ball-like shape. Every stretch creates more tension in relaxed dough. The difference is that now it happens on the table and you can pull not only 4 times from all sides, but more. It is advisable not to pull the flour too much on top, so that the dough does not stop sticking.
+This step builds surface tension.
 
-Leave both balls on the table with the sticky side up, do not turn them over.
+Cover bannetons with towels.
 
-Prepare bannetons (bowls with cloth) and sprinkle them with flour as well.
+### 18:00  
+Check the dough with a gentle press. If it springs back slowly and leaves a slight indentation, it’s ready.
 
+Transfer covered bannetons to the refrigerator.
 
-### 16:00
+Cold retardation halts yeast activity but allows bacteria to continue developing flavor, acidity, and digestibility.
 
-The balls have flattened on the table a little. Return them to their shape in the same way as before, lightly folding them from the sides to the center.
+## Day 3 – Baking
 
-Turn the balls over and use a baker's knife to give them an even better shape.[Video from 2:20](https://youtu.be/Koab3fxN4t4?t=140).
+### 16:00  
+This is an ideal baking time. You can bake as early as 8:00 AM, though flavor develops more with longer rest. If you wait too long, up to the 4th day, the dough may lose its oven spring.
 
-Then, insert a baker's knife under the ball and holding it with your hand, transfer the ball to the banneton, turning the ball over again. The “seam side” (the opposite to “smooth side”) that together should be up again, and the smooth stretched surface of the ball should be down.
+Place a bowl of water in the oven and preheat to 230°C. Wait 10–15 minutes to fully heat.
 
-The purpose of this step is to create surface tension on the dough.
+Remove one banneton from the fridge. Lightly flour the surface of the dough.
 
-Cover both bannetons with a towel.
+Prepare your baking surface or pan. Cut a square of baking paper and place it over the banneton. Put your hand on top, fingers spread, and invert the banneton onto the table. Remove the banneton and cloth, leaving the dough on the paper.
 
+Transfer the dough and paper to the baking surface. Trim excess paper and dust with flour.
 
-### 18:00
+Score the dough with a blade, ideally at least 1 cm deep to create openings. Cross scores are optional.  
+[Scoring video](https://www.youtube.com/watch?v=54iZrTb2EqU)
 
-Now, if you press on the dough with your finger, it returns to its original shape in a couple of seconds, but not fully risen and wait more. Ideally a small dent should remain. It feels like the dough is soft and puffy (it is not explainable in words).
+If the dough tears or resists, the blade angle may be wrong or the dough over-proofed.
 
-Move both bannetons covered with towels to the refrigerator.
+Place the tray in the oven above the steaming bowl. Bake for 50 minutes at 230°C.
 
-In the refrigerator, the growth of the dough will stop, the yeast will fall asleep. But the bacteria will continue to work, making the dough more sour, forming a complex taste and aftertaste, improving the digestiveness of bread.
+Remove the water and bake for another 5 minutes to crisp the crust.
 
+Cool the loaf on a wire rack for at least 1 hour. Cutting too early may make the bread appear undercooked — it needs to "settle".
 
-## Day 3 - baking
+Repeat the process with the second loaf.
 
+## Adjustments for Next Time
 
-### 16:00
+* **Bread is soggy after baking**
+    * You can still toast it. Next time, bake longer than 45 minutes with steam.
+* **Bottom is burnt**
+    * Use more flour underneath the dough.
+* **Crust is too hard**
+    * Shorten the final crust-forming bake (without steam).
+* **Poor rise**
+    * Possibly a weak starter. Feed it for another week.  
+        * For a stronger boost, feed it once in the evening and leave at room temperature overnight, or even feed it twice (evening and late night).
+    * Temperature may be too cold or hot. Adjust timing for the Day 2 16:00–17:30 stage.
+    * Experiment with ±5% water content.
+* **Scoring marks are unclear; poor oven spring**
+    * Improve your scoring technique. Watch tutorials on YouTube.
 
-This time is considered ideal for baking. But the bread is ready for baking already from 8 o'clock in the morning. The less it is infused, the less complex its taste will be. But if you insist too long, after 16:00 or even until the 4th day, there is a risk of losing the growth of the bread in the oven. This is done for people who have problems with wheat digestion and need bread that has processed bacteria as much as possible.
+# Sourdough Starter Tips
 
-Pour a vessel of water and put it in the oven. The temperature is 230 degrees. Let the oven warm up for 10-15 minutes until it reaches this temperature.
+Use whole grain flour. Mix 50–70 g of flour with the same mass of water (1:1 ratio) in a glass jar with room to double in size. Cover with pierced cling film.
 
-Take one banneton out of the fridge. Sprinkle the surface with flour.
+Each day, transfer a portion to a clean jar and add new flour and filtered water in a 1:1:1 ratio (e.g. 60:60:60). Discard the rest or use in pancakes.
 
-Prepare a pan or baking surface.
+Repeat this for about a week. Once the starter reliably doubles in volume for three consecutive days, it’s ready.
 
-Cut out a square from baking paper. Place it on top of the banneton with the dough and place your hand on top with your fingers apart. Put the other hand under the banneton and check the banneton. Place it carefully on the table. And remove the banneton with the fabric that is now on top. There is now dough on the paper on the table.
+Store in the fridge and feed weekly. It can survive a month unfed during vacations. The starter is a robust ecosystem of yeast and bacteria that suppresses harmful organisms. It must be starved for over a month to kill it.
 
-Move it to the baking surface and cut off the excess paper. Sprinkle with flour.
+Alternative methods use fruit or hops for inoculation — try those only if the simple method fails, possibly due to local microbial conditions.
 
-Pass the blade in several places along the dough, possibly along the entire length. You can cross. It should go at least a centimeter and open a slot in the dough. This is the most difficult and will get better over time.[Video](https://www.youtube.com/watch?v=54iZrTb2EqU).
-
-If the dough stretches and tears, then either the blade is not positioned correctly, or the dough stood too long the previous day between 16:00 and 17:30, this time can be shortened.
-
-Put the baking surface in the oven, where the water should already be boiling gently on the other grid. Bake for 50 minutes at a temperature of 230 degrees.
-
-Then take out the water and bake for 5 minutes to form a crust.
-
-Remove from the oven and place the bread on a wire rack to let it breathe and cool for more than 1 hour. If you cut it right away, it will give the impression that it is raw. But he has to "get ready" in an hour.
-
-Do not forget to bake a second loaf of bread.
-
-
-## Adjusting the recipe for next time
-
-Now you can analyze what to improve next time.
-
-
-
-* The bread is moldy even after 1 hour.
-    * Unfortunately, you can't bake it, but you can make toast. Next time, bake for more than 45 minutes with water.
-* The bread burned from the bottom.
-    * There is not enough flour on the bottom.
-* The crust is too hard
-    * Make the final baking stage without water shorter.
-* The bread did not rise well
-    * Most likely - bad starter, we need to feed it for another week
-        * Alternative way to revitalize the starter is to do it late at night before going to sleep and then NOT put it into the fridge. The absolutely strongest way to revitalize it is to do it twice: from 18:00 to 23:00 and then from 23:00 to the morning without putting it in the fridge. Whatever works.
-    * It is cold or hot in the house. Try to increase or decrease the period on Day 2, 16:00 - 17:30.
-    * Try more or less water plus or minus 5%.
-* The slits look like the rest of the surface of the bread. And the bread is not rising high
-    * Improve the technique of scoring the bread. Watch some video on YT
-
-
-# Sourdough starter tips
-
-Get whole grain flour. Then you mix 50-70 g of flour with the same amount (mass) of water in a glass cup (large enough to keep the double of it). 1:1 proportion. You cover it with food film with a little hole in it on the top. Next day at the same time you take a clean cup and put a part of yesterday's starter, new flour and filtered water: 1:1:1 proportion, e.g. 60 g : 60 g : 60 g. The rest of the starter can be thrown away or to the pancake mix.
-
-Then you do it for a week (every day 1:1:1) or so until you have three days of reliable rising to twice the volume at peak. Then it's done and it can live forever (literally centuries).
-
-After that you move it to the fridge and do the same procedure, but now once a week. You can leave it for a month too if you go on vacation. It is a super stable ecosystem of yeast and bacteria that kills everything else: all uncompatible yeast, bacteria and fungus. You need to starve it for longer than a month to kill it.
-
-There are variants of doing it differently, by adding an apple or hops, but those can be tried after the simple recipe failed. Maybe you have weird microscopic cultures around your kitchen, so a boost is needed. Usually it just works.
-
+If you abandoned starter for a really long time and it develops the black alcohol on the top - it is ok, it is just very hungry. If it develops bright colored moss - then it is truly dead, throw it away and start over.
 
