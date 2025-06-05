@@ -1,0 +1,14 @@
+[book]
+# authors = ["Igor Petruk"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Robust Recipe"
+
+[output.html]
+# git-repository-url = "https://github.com/igor-petruk/robustrecipe/tree/main"
+# edit-url-template = "https://github.com/igor-petruk/oatbar/edit/main/book/{path}"
+
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
