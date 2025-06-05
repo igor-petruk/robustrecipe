@@ -6,6 +6,8 @@ src = "src"
 title = "Robust Recipe"
 
 [output.html]
+default-theme = "rust"
+preferred-dark-theme = "ayu"
 # git-repository-url = "https://github.com/igor-petruk/robustrecipe/tree/main"
 # edit-url-template = "https://github.com/igor-petruk/oatbar/edit/main/book/{path}"
 
