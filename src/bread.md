@@ -23,7 +23,7 @@ The amount of water affects the size of air pockets in the bread. For wheat flou
 Many of these items are included in baking kits like [this one](https://www.amazon.co.uk/dp/B09L1GWX4J/).
 
 1. Baking paper
-2. [Baker’s knife (lame)](https://m.media-amazon.com/images/I/61JefH68WtL._AC_SL1500_.jpg)
+2. [Baker’s knife](https://m.media-amazon.com/images/I/61JefH68WtL._AC_SL1500_.jpg)
 3. [Square blade](https://wetshavingclub.com/wp-content/uploads/2020/06/how-often-do-i-change-safety-razor-blade-e1593280962443.jpg) or bread scoring tool
 4. Kitchen scale
 5. Oven that heats to 230°C+ and a way to verify it (thermometer or oven display)
@@ -40,7 +40,7 @@ The bread is made over three days, though actual active time is minimal. The sch
 ## Day 1 – Reviving the Sourdough Starter
 
 ### 18:00  
-Take the sourdough out of the fridge, feed it as usual, and leave it at room temperature.
+Take the sourdough starter out of the fridge, feed it as usual, and leave it at room temperature.
 
 ### 22:00  
 Place the fed starter back in the fridge.
@@ -54,16 +54,16 @@ Combine 25 g of sourdough with 100 g of water and stir to dissolve. Add 100 g of
 Place the mixture in a jar or bowl, cover with cling film (poke a small hole for air to escape), and leave at room temperature. The container should allow for the leaven to double in size.
 
 ### 12:00  
-In a large bowl, pour 640 g of water and add all of the levain. If it floats, that’s a good sign, but it’s fine if it doesn’t. Stir to mix.
+In a large bowl, pour 560 g of water and add all of the levain. If it floats, that’s a good sign, but it’s fine if it doesn’t. Stir to mix.
 
 Add both flours and mix directly in the bowl. It won’t become uniform yet. **Do not add salt!**
 
 This step is called **autolysis** — resting the flour and water (and levain, optionally) without salt. Though it seems unnecessary, it significantly improves dough structure.
 
 ### 12:30  
-Gradually add the remaining 160 g of water, about 20 g at a time, mixing thoroughly between additions. Add all the salt during this step.
+Gradually add the remaining 120 g of water, about 20 g at a time, mixing thoroughly between additions. Add all the salt during this step.
 
-Cover the bowl loosely — some people use a damp towel.
+Cover the bowl loosely with a cling film or use a damp towel.
 
 This stage is called **bassinage** — adding water after autolysis. It’s believed to improve elasticity. Some bakers skip this step and simply add most of the water upfront, saving ~20 g for dissolving the salt.
 
@@ -80,7 +80,7 @@ Repeat the stretch and fold.
 ### 15:00  
 Repeat again.
 
-At this point, optional ingredients like cheese, dried fruit, or herbs can be added — though these make the dough harder to handle, so it’s best to master the base recipe first.
+At this point, optional ingredients like cheese, dried fruit, or herbs can be added. These make the dough harder to handle, so it’s best to master the base recipe first.
 
 After the final fold, the dough should stretch like mozzarella. If not, note it for next time — perhaps adjust hydration based on your flour. Do not fix it now.
 
@@ -117,7 +117,7 @@ Cold retardation halts yeast activity but allows bacteria to continue developing
 ## Day 3 – Baking
 
 ### 16:00  
-This is an ideal baking time. You can bake as early as 8:00 AM, though flavor develops more with longer rest. By the 4th day, the dough may lose its oven spring.
+This is an ideal baking time. You can bake as early as 8:00 AM, though flavor develops more with longer rest. If you wait too long, up to the 4th day, the dough may lose its oven spring.
 
 Place a bowl of water in the oven and preheat to 230°C. Wait 10–15 minutes to fully heat.
 
@@ -167,4 +167,6 @@ Repeat this for about a week. Once the starter reliably doubles in volume for th
 Store in the fridge and feed weekly. It can survive a month unfed during vacations. The starter is a robust ecosystem of yeast and bacteria that suppresses harmful organisms. It must be starved for over a month to kill it.
 
 Alternative methods use fruit or hops for inoculation — try those only if the simple method fails, possibly due to local microbial conditions.
+
+If you abandoned starter for a really long time and it develops the black alcohol on the top - it is ok, it is just very hungry. If it develops bright colored moss - then it is truly dead, throw it away and start over.
 
