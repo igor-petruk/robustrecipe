@@ -8,9 +8,14 @@ title = "Robust Recipe"
 [output.html]
 default-theme = "rust"
 preferred-dark-theme = "ayu"
+additional-css = ["./mdbook-admonish.css"]
 # git-repository-url = "https://github.com/igor-petruk/robustrecipe/tree/main"
 # edit-url-template = "https://github.com/igor-petruk/oatbar/edit/main/book/{path}"
 
 [preprocessor.toc]
 command = "mdbook-toc"
 renderer = ["html"]
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "3.0.3" # do not edit: managed by `mdbook-admonish install`
