@@ -58,14 +58,18 @@ In a large bowl, pour 560 g of water and add all of the levain. If it floats, th
 
 Add both flours and mix directly in the bowl. It won’t become uniform yet. **Do not add salt!**
 
+```admonish tip collapsible=true,title="Theory"
 This step is called **autolysis** — resting the flour and water (and levain, optionally) without salt. Though it seems unnecessary, it significantly improves dough structure.
+```
 
 ### 12:30  
 Gradually add the remaining 120 g of water, about 20 g at a time, mixing thoroughly between additions. Add all the salt during this step.
 
 Cover the bowl loosely with a cling film or use a damp towel.
 
+```admonish tip collapsible=true,title="Theory"
 This stage is called **bassinage** — adding water after autolysis. It’s believed to improve elasticity. Some bakers skip this step and simply add most of the water upfront, saving ~20 g for dissolving the salt.
+````
 
 ### 13:00  
 Wet your hands. Without removing the dough from the bowl, slide your hands underneath, stretch one side upward, and fold it over. Rotate the bowl 90° and repeat for all four sides.
